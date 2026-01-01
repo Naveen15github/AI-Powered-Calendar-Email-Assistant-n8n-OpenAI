@@ -6,7 +6,7 @@ This project demonstrates how modern AI agents can reason, coordinate tools, and
 
 ---
 
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/AI-Powered-Calendar-Email-Assistant-n8n-OpenAI-/blob/c8d501b3736f58ae9253eb0662f9026f8ada26ca/Screenshot%20(319).png)
 
 
 ## 🚀 Overview
@@ -23,10 +23,10 @@ The system is fully automated and designed for real-world usage such as meeting 
 ---
 # Proof Of Work
 
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/AI-Powered-Calendar-Email-Assistant-n8n-OpenAI-/blob/c8d501b3736f58ae9253eb0662f9026f8ada26ca/Screenshot%20(317).png)
+![Alt text](https://github.com/Naveen15github/AI-Powered-Calendar-Email-Assistant-n8n-OpenAI-/blob/c8d501b3736f58ae9253eb0662f9026f8ada26ca/Screenshot%20(318).png)
+![Alt text](https://github.com/Naveen15github/AI-Powered-Calendar-Email-Assistant-n8n-OpenAI-/blob/c8d501b3736f58ae9253eb0662f9026f8ada26ca/Screenshot%20(320).png)
+![Alt text](https://github.com/Naveen15github/AI-Powered-Calendar-Email-Assistant-n8n-OpenAI-/blob/c8d501b3736f58ae9253eb0662f9026f8ada26ca/Screenshot%20(321).png)
 
 ---
 
