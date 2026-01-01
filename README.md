@@ -6,6 +6,9 @@ This project demonstrates how modern AI agents can reason, coordinate tools, and
 
 ---
 
+![Alt text](image-url)
+
+
 ## 🚀 Overview
 
 This workflow allows users to interact with a conversational AI that can:
@@ -17,6 +20,13 @@ This workflow allows users to interact with a conversational AI that can:
 * Coordinate multiple tools without manual branching logic
 
 The system is fully automated and designed for real-world usage such as meeting scheduling, reminders, and professional communication.
+---
+# Proof Of Work
+
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
 
 ---
 
